@@ -1,6 +1,6 @@
 # Neumorphic Button
 
-*Link:* https://gunasethu.netlify.app/
+*Link:* https://neumorphic-button.netlify.app/
 
 ## Preview:
 
